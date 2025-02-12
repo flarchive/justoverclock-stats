@@ -1,0 +1,57 @@
+{
+    "name": "justoverclock/stats",
+    "description": "Custom extension that add game stats to users",
+    "keywords": [
+        "stats"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.2.0",
+        "antoinefr/flarum-ext-money": "*",
+        "justoverclock/profile-stories": "*"
+    },
+    "authors": [
+        {
+            "name": "Marco Colia",
+            "email": "info@justoverclock.it",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Justoverclock\\Stats\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Stats",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-headset",
+                "color": "orange",
+                "backgroundColor": "white"
+            }
+        },
+        "flarum-cli": {
+            "modules": {
+                "admin": true,
+                "forum": true,
+                "js": true,
+                "jsCommon": true,
+                "css": true,
+                "locale": true,
+                "gitConf": true,
+                "githubActions": false,
+                "prettier": true,
+                "typescript": true,
+                "bundlewatch": true,
+                "backendTesting": false,
+                "editorConfig": true,
+                "styleci": true
+            }
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
