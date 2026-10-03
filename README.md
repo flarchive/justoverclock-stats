@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of justoverclock/stats.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/stats) or the [upstream repository](https://github.com/justoverclockl/stats).
 
-**0** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/justoverclock-stats/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.2.0`
+**11** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/justoverclock-stats/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2025-01-14 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-stats/tree/archive/v1.0.0) |
+| `1.0.1` | 2025-02-12 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-stats/tree/archive/v1.0.1) |
+| `1.0.2` | 2025-02-13 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-stats/tree/archive/v1.0.2) |
+| `1.0.3` | 2025-02-13 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-stats/tree/archive/v1.0.3) |
+| `1.0.4` | 2025-02-13 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-stats/tree/archive/v1.0.4) |
+| `1.0.5` | 2025-02-13 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-stats/tree/archive/v1.0.5) |
+| `1.0.6` | 2025-02-13 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-stats/tree/archive/v1.0.6) |
+| `1.0.7` | 2025-02-13 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-stats/tree/archive/v1.0.7) |
+| `1.0.8` | 2025-02-14 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-stats/tree/archive/v1.0.8) |
+| `1.0.9` | 2025-02-17 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-stats/tree/archive/v1.0.9) |
+
+[View all 11 versions](https://github.com/flarchive/justoverclock-stats/tags)
 
 Catalog entry: [packages/justoverclock-stats.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-stats.json)
 
